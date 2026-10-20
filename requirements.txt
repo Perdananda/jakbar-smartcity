@@ -1,0 +1,15 @@
+streamlit>=1.38,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+plotly>=5.22,<7
+folium>=0.17,<1
+streamlit-folium>=0.23,<1
+Pillow>=10,<12
+osmnx>=2.0,<3
+geopandas>=1.0,<2
+shapely>=2.0,<3
+pyproj>=3.6,<4
+ultralytics>=8.3,<9
+requests>=2.31,<3
+
+requests>=2.31
